@@ -1,2 +1,2 @@
 # nishCode
-A repo for my bro nishant
+Coding repo for Nishant Jain 
